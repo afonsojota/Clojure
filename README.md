@@ -1,2 +1,2 @@
 # Clojure
-Meus estudos com Programação Funcional. Clojure.
+Personal studies with functional programming.
